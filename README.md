@@ -1,6 +1,7 @@
 - 🖐🏻 Hi there! I'm Intisar!
-- 🌱 I’m currently learning Firebase
-- 📫 How to reach me: https://www.linkedin.com/in/akm-intisar/
+- 🌱 I’m currently learning Firebase 🔥
+- 🥅 2021 Goal: Landing on my first job as a Developer
+- ⚡ Fun fact: I love to take photos! 
 - 😄 Pronouns: he/him
 
 ### Connect with me:
