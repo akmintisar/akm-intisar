@@ -1,4 +1,4 @@
 - 🖐🏻 Hi there! I'm Intisar!
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning Firebase
 - 📫 How to reach me: https://www.linkedin.com/in/akm-intisar/
 - 😄 Pronouns: he/him
