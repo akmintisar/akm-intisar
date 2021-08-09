@@ -24,8 +24,8 @@
 
 <br />
 
-![Github Languages]
-(https://github-readme-stats.vercel.app/api/top-langs/?username=akm-intisar&layout=compact&count_private=true)
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akm-intisar&layout=compact&count_private=true)
 
 <br />
 
