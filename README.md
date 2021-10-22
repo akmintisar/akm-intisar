@@ -1,6 +1,6 @@
 - 🖐🏻 Hi there! I'm Intisar!
 - 🌱 I’m currently learning mongo DB
-- 🥅 2021 Goal: Landing on my first job as a Developer
+- 🥅 2021 Target: Landing on my first job as a Developer
 - ⚡ Fun fact: I love to take photos! 
 - 😄 Pronouns: he/him
 
