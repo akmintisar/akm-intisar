@@ -32,9 +32,6 @@
 
 <br />
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=akm-intisar&count_private=true&show_icons=true)
-
-<br />
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=akm-intisar&hide_border=true)
 
