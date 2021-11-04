@@ -35,7 +35,7 @@
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=akm-intisar&hide_border=true)
 
 <br/>
-[![Visits Badge](https://badges.pufler.dev/visits/akm-intisar/akm-intisar)](https://github.com/akm-intisar)
+
 
 [website]: https://intisar.xyz
 [twitter]: https://twitter.com/AKM_Intisar
