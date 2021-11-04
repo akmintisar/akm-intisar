@@ -3,6 +3,8 @@
 - 🥅 2021 Target: Landing on my first job 
 - ⚡ Fun fact: I love to take photos! 
 - 😄 Pronouns: he/him
+- ![](https://komarev.com/ghpvc/?username=akm-intisar&color=brightgreen)
+
 
 ### Connect with me:
 
@@ -33,7 +35,6 @@
 
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=akm-intisar&hide_border=true)
-![](https://komarev.com/ghpvc/?username=akm-intisar&color=green)
 
 
 <br/>
