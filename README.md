@@ -1,6 +1,5 @@
 - 🖐🏻 Hi there! I'm Intisar!
-- 🌱 I’m currently learning mongo DB
-- 🥅 2021 Target: Landing on my first job 
+- 🌱 I’m currently learning advance JavaScript! 
 - ⚡ Fun fact: I love to take photos! 
 - 😄 Pronouns: he/him
 - ![](https://komarev.com/ghpvc/?username=akm-intisar&color=brightgreen)
