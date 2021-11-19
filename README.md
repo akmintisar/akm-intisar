@@ -1,5 +1,6 @@
 - 🖐🏻 Hi there! I'm Intisar!
 - 🌱 I’m currently learning advance JavaScript! 
+- 🤔 Also doing entry level problem solving! 
 - ⚡ Fun fact: I love to take photos! 
 - 😄 Pronouns: he/him
 - ![](https://komarev.com/ghpvc/?username=akm-intisar&color=brightgreen)
