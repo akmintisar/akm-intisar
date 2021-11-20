@@ -3,6 +3,7 @@
 - 🤔 Also doing entry level problem solving! 
 - ⚡ Fun fact: I love to take photos! 
 - 😄 Pronouns: he/him
+- ⏳ Time Management lover!
 - ![](https://komarev.com/ghpvc/?username=akm-intisar&color=brightgreen)
 
 
