@@ -1,5 +1,5 @@
 - 🖐🏻 Hi there! I'm Intisar!
-- 🌱 I’m currently learning advance JavaScript! 
+- 🌱 I’m currently learning ReactJS! 
 - 🤔 Also doing entry level problem solving! 
 - ⚡ Fun fact: I love to take photos! 
 - 😄 Pronouns: he/him
